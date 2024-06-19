@@ -1,3 +1,3 @@
 ## Diagrama
 
-<img src="/img/diagrama.jpg">
+<img src="https://github.com/IgorFavarin/desafio-POO/blob/master/Desafio-diagramacao-iphone/img/diagrama.jpg">
